@@ -1,0 +1,19 @@
+.site-header__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13pt;
+    text-decoration: none;
+    margin-left: 45px;
+    text-transform: uppercase;
+}
+
+.site-header__link:link {
+    color: #2d2829;
+}
+
+.site-header__link:visited {
+    color: #2d2829;
+}
+
+.site-header__link:hover {
+    color: #f50049;
+}

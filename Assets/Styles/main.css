@@ -1,6 +1,28 @@
+@import "site/reset.css";
+
+/* common */
 @import "site/site.css";
-@import "site/reset/reset.css";
+@import "site/common/common__button.css";
+
+/* header */
 @import "site/site-header/site-header.css";
 @import "site/site-header/site-header__title/site-header__title.css";
 @import "site/site-header/site-header__link/site-header__link.css";
 @import "site/site-header/site-header__number/site-header__number.css";
+
+/* main-section */
+@import "site/site-main-section/site-main-section.css";
+@import "site/site-main-section/bg-image.css";
+@import "site/site-main-section/site-main-section__bg-cake.css";
+@import "site/site-main-section/site-main-section__bg-illustration.css";
+
+@import "site/site-main-section/site-main-section-info/site-main-section-info.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info__title.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info__hand-made.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info__button.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item__image.css";
+@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item__text.css";
+
+@import "site/site-main-section/site-main-section-info/site-main-section__image.css";

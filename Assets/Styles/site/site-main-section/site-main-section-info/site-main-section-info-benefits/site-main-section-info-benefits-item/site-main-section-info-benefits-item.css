@@ -1,0 +1,5 @@
+.site-main-section-info-benefits-item{
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:600|Playfair+Display:700&display=swap');
-
 .site-header {
-    margin-top: 64px;
+    margin-top: 85px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;

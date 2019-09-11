@@ -1,0 +1,16 @@
+.common__button {
+    padding: 24px 92px;
+    background: #f50049;
+    color: white;
+    font-family: Circe;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 66px;
+    text-decoration: none;
+    border: none;
+}
+
+.common__button:hover {
+    box-shadow: 0px 5px 10px 0px rgba(255, 0, 67, 0.3);
+}

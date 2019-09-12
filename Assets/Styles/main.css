@@ -25,4 +25,22 @@
 @import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item__image.css";
 @import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item__text.css";
 
-@import "site/site-main-section/site-main-section-info/site-main-section__image.css";
+/* our-cakes-section */
+@import "site/site-our-cakes-section/site-our-cakes-section.css";
+@import "site/site-our-cakes-section/site-our-cakes-section__title.css";
+
+@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types-first-block.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types-second-block.css";
+
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__title.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__count.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform_arrow.css";
+
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__childish.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__classic.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__men.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__mousse.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__wedding.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__women.css";

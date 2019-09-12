@@ -1,0 +1,26 @@
+.cake-platform-arrow {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    margin-bottom: 50px;
+    margin-right: 95px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.cake-platform-arrow:hover .cake-platform-arrow__image {
+    margin-right: -15px;
+    padding-left: 35px;
+}
+
+.cake-platform-arrow__before {
+    font-family: Circe;
+    font-size: 25px;
+    color: #2d2829;
+}
+
+.cake-platform-arrow__image {
+    height: 20px;
+    padding-left: 20px;
+    transition-duration: 0.2s;
+}

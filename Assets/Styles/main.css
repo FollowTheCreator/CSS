@@ -1,3 +1,4 @@
+/* reset */
 @import "site/reset.css";
 
 /* common */
@@ -36,7 +37,7 @@
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__title.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__count.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform_arrow.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-arrow.css";
 
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__childish.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__classic.css";
@@ -44,3 +45,15 @@
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__mousse.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__wedding.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__women.css";
+
+/* how-to-order-section */
+@import "site/site-how-to-order-section/site-how-to-order-section.css";
+@import "site/site-how-to-order-section/site-how-to-order-section__background.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm__title.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__content.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__title.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__number.css";
+@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list__title.css";

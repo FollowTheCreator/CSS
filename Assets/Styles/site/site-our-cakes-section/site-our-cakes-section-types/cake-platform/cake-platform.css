@@ -1,4 +1,5 @@
 .cake-platform {
+    position: relative;
     background: white;
     padding: 50px 65px;
     height: 325px;

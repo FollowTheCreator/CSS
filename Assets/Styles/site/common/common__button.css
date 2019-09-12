@@ -9,6 +9,7 @@
     border-radius: 66px;
     text-decoration: none;
     border: none;
+    transition-duration: 0.2s;
 }
 
 .common__button:hover {

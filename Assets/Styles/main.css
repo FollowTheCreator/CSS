@@ -4,6 +4,9 @@
 /* common */
 @import "site/site.css";
 @import "site/common/common__button.css";
+@import "site/common/common__input.css";
+@import "site/common/common__social-icon.css";
+@import "site/common/common__link.css";
 
 /* header */
 @import "site/site-header/site-header.css";
@@ -57,3 +60,22 @@
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__title.css";
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__number.css";
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list__title.css";
+
+/* contacts-section */
+@import "site/site-contacts-section/site-contacts-section.css";
+@import "site/site-contacts-section/site-contacts-section__bg.css";
+@import "site/site-contacts-section/site-contacts-section__title.css";
+@import "site/site-contacts-section/site-contacts-section__content.css";
+
+@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form.css";
+@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__button.css";
+@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__input.css";
+@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__sub-title.css";
+@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__title.css";
+
+@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info.css";
+@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info__secondary-contact.css";
+@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-group.css";
+@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-vk.css";
+@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-instagram__image.css";
+@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-vk__image.css";

@@ -1,10 +1,11 @@
-.site-how-to-order-section__background {
+.site-contacts-section__bg {
     position: absolute;
     z-index: -1;
     right: -101px;
+    top: 500px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    height: 982.4px;
+    height: 570px;
 }

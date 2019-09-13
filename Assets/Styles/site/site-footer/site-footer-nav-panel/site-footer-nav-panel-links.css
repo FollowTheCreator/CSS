@@ -1,0 +1,5 @@
+.site-footer-nav-panel-links {
+    display: flex;
+    justify-content: space-between;
+    width: 55vw;
+}

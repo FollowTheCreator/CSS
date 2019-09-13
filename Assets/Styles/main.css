@@ -10,9 +10,9 @@
 
 /* header */
 @import "site/site-header/site-header.css";
-@import "site/site-header/site-header__title/site-header__title.css";
-@import "site/site-header/site-header__link/site-header__link.css";
-@import "site/site-header/site-header__number/site-header__number.css";
+@import "site/site-header/site-header__title.css";
+@import "site/site-header/site-header__link.css";
+@import "site/site-header/site-header__number.css";
 
 /* main-section */
 @import "site/site-main-section/site-main-section.css";
@@ -79,3 +79,13 @@
 @import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-vk.css";
 @import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-instagram__image.css";
 @import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-vk__image.css";
+
+/* footer */
+@import "site/site-footer/site-footer.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel__title.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-links.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-links__item.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social__image.css";
+@import "site/site-footer/site-footer__copyright.css";

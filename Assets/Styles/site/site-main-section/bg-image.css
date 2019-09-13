@@ -1,7 +1,7 @@
 .bg-image {
     position: absolute;
     z-index: -1;
-    right: -101px;
+    right: 0px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;

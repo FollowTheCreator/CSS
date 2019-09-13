@@ -1,0 +1,13 @@
+.site-footer-nav-panel__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: #2d2829;
+    display: inline;
+    letter-spacing: 0.1vw;
+}
+
+@media screen and (max-width: 1300px) {
+    .site-footer-nav-panel__title {
+        font-size: 30px;
+    }
+}

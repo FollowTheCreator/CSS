@@ -1,0 +1,5 @@
+.site-footer-nav-panel-social {
+    display: flex;
+    justify-content: space-between;
+    width: 5vw;
+}

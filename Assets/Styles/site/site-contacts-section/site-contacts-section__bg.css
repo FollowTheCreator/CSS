@@ -1,7 +1,7 @@
 .site-contacts-section__bg {
     position: absolute;
     z-index: -1;
-    right: -101px;
+    right: 0px;
     top: 500px;
     -webkit-user-select: none;
     -moz-user-select: none;

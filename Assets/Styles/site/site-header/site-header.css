@@ -1,5 +1,5 @@
 .site-header {
-    margin-top: 85px;
+    height: 12vh;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;

@@ -1,4 +1,12 @@
 .site-contacts-section{
     position: relative;
-    margin-top: 100px;
+    padding-top: 11vh;
+    height: 1070px;
+}
+
+
+@media screen and (max-width: 1490px) {
+    .site-contacts-section {
+        height: 1300px;
+    }
 }

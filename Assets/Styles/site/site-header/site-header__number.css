@@ -3,3 +3,10 @@
     font-size: 21px;
     color: #2d2829;
 }
+
+@media screen and (max-width: 1200px) {
+    .site-header__number {
+        display: none;
+        width: 0px;
+    }
+}

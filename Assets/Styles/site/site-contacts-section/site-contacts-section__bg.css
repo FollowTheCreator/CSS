@@ -2,7 +2,7 @@
     position: absolute;
     z-index: -1;
     right: 0px;
-    top: 500px;
+    bottom: 0px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;

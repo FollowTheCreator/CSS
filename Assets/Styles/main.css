@@ -10,6 +10,7 @@
 
 /* header */
 @import "site/site-header/site-header.css";
+@import "site/site-header/site-header-nav.css";
 @import "site/site-header/site-header__title.css";
 @import "site/site-header/site-header__link.css";
 @import "site/site-header/site-header__number.css";
@@ -34,20 +35,13 @@
 @import "site/site-our-cakes-section/site-our-cakes-section__title.css";
 
 @import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types-first-block.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types-second-block.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types-block.css";
 
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__title.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__count.css";
+@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__bg.css";
 @import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-arrow.css";
-
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__childish.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__classic.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__men.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__mousse.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__wedding.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-bg/cake-platform-bg__women.css";
 
 /* how-to-order-section */
 @import "site/site-how-to-order-section/site-how-to-order-section.css";
@@ -58,14 +52,13 @@
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item.css";
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__content.css";
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__title.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__number.css";
 @import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list__title.css";
 
 /* contacts-section */
 @import "site/site-contacts-section/site-contacts-section.css";
 @import "site/site-contacts-section/site-contacts-section__bg.css";
 @import "site/site-contacts-section/site-contacts-section__title.css";
-@import "site/site-contacts-section/site-contacts-section__content.css";
+@import "site/site-contacts-section/site-contacts-section-content.css";
 
 @import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form.css";
 @import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__button.css";

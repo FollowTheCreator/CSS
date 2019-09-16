@@ -1,4 +1,17 @@
 .site-main-section__bg-cake {
-    top: -170px;
+    top: 5vh;
     height: 1300px;
+}
+
+@media screen and (max-width: 1600px){
+    .site-main-section__bg-cake {
+        height: 1000px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .site-main-section__bg-cake {
+        top: 25vh;
+        height: 700px;
+    }
 }

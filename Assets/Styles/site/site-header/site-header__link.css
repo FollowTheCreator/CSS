@@ -2,8 +2,6 @@
     font-family: Circe;
     font-size: 18.1px;
     text-decoration: none;
-    margin-left: 53px;
-    margin-right: 3px;
     text-transform: uppercase;
     letter-spacing: 0px;
 }
@@ -18,4 +16,10 @@
 
 .site-header__link:hover {
     color: #f50049;
+}
+
+@media screen and (max-width: 1450px) {
+    .site-header__link {
+        font-size: 14px;
+    }
 }

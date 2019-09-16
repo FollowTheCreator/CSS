@@ -1,8 +1,8 @@
 .cake-platform {
     position: relative;
     background: white;
-    padding: 50px 65px;
-    height: 325px;
+    padding: 2.5vw 3.4vw;
+    height: 17vw;
     transition-duration: 0.2s
 }
 
@@ -11,18 +11,18 @@
 }
 
 .cake-platform_size_big {
-    height: 810px;
-    width: 49.5%;
+    height: 42vw;
+    width: 44vw;
 }
 
 .cake-platform_mt-60 {
-    margin-top: 60px;
+    margin-top: 3vw;
 }
 
 .cake-platform_ml-60 {
-    margin-left: 60px;
+   margin-left: 3vw;
 }
 
 .sub-block {
-    width: 40%;
+    width: 35vw;
 }

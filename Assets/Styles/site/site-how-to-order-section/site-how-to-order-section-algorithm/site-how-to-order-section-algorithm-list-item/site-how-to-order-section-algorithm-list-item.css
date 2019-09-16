@@ -1,4 +1,12 @@
 .site-how-to-order-section-algorithm-list-item {
-    display: flex;
-    margin-top: 45px;
+    margin-top: 4vh;
+}
+
+.site-how-to-order-section-algorithm-list-item::before {
+    content: attr(data-number);
+    font-size: 80px;
+    font-weight: 600;
+    float: left;
+    padding-right: 1vw;
+    padding-bottom: 5vh;
 }

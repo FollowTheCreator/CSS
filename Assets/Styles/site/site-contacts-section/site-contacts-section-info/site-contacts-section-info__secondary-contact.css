@@ -2,6 +2,8 @@
     font-family: Circe;
     font-size: 28px;
     color: #2d2829;
-    margin-top: 32px;
-    line-height: 33px;
+    margin-top: 4vh;
+    line-height: 3vh;
+    background: rgba(251, 235, 234, 0.47);
+    box-shadow: 0px 0px 20px 20px rgba(251, 235, 234, 0.47);
 }

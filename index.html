@@ -6,7 +6,7 @@
 </head>
 <body>
     <header class="site site-header">
-        <div>
+        <nav class="site-header-nav">
             <h1 class="site-header__title">
                 Cakes
             </h1>
@@ -16,213 +16,200 @@
             <a href="#" class="site-header__link">О нас</a>
             <a href="#" class="site-header__link">Как заказать</a>
             <a href="#" class="site-header__link">Контакты</a>
-        </div>
+        </nav>
         <div class="site-header__number">
             +7 906 899 92 96
         </div>
     </header>
-    <section class="site site-main-section">
-        <div class="site-main-section-info">
-            <div class="site-main-section-info__title">
-                Торты на заказ
-            </div>
-            <div class="site-main-section-info__hand-made">
-                Ручная работа
-            </div>
-            <button class="common__button site-main-section-info__button">
-                Выбрать торт
-            </button>
-            <div class="site-main-section-info-benefits">
-                <div class="site-main-section-info-benefits-item">
-                    <img src="Assets/Styles/site/site-main-section/site-main-section-info/site-main-section-info-benefits/images/Ingredients-icon.png" alt="Natural Ingredients" class="site-main-section-info-benefits-item__image" />
-                    <p class="site-main-section-info-benefits-item__text">
-                        Натуральные ингредиенты
-                    </p>
-                </div>
-                <div class="site-main-section-info-benefits-item">
-                    <img src="Assets/Styles/site/site-main-section/site-main-section-info/site-main-section-info-benefits/images/Delivery-icon.png" alt="Delivery" class="site-main-section-info-benefits-item__image" />
-                    <p class="site-main-section-info-benefits-item__text">
-                        Доставка бесплатно при заказе от 2000 рублей*
-                    </p>
-                </div>
-            </div>
-        </div>
-        <img src="Assets/Styles/site/site-main-section/images/Cake.png" alt="" class="bg-image site-main-section__bg-cake" />
-        <img src="Assets/Styles/site/site-main-section/images/Illustration1.png" alt="" class="bg-image site-main-section__bg-illustration1" />
-        <img src="Assets/Styles/site/site-main-section/images/Illustration2.png" alt="" class="bg-image site-main-section__bg-illustration2" />
-        <img src="Assets/Styles/site/site-main-section/images/Illustration3.png" alt="" class="bg-image site-main-section__bg-illustration3" />
-    </section>
-    <section class="site site-our-cakes-section">
-        <div class="site-our-cakes-section__title">
-            Наши торты
-        </div>
-        <div class="site-our-cakes-section-types">
-            <div class="site-our-cakes-section-types-first-block">
-                <div class="cake-platform cake-platform_size_big cake-platform-bg__classic">
-                    <div class="cake-platform__title">
-                        Классические
+    <main>
+        <section class="site site-main-section">
+            <div class="site-main-section-info">
+                <h1 class="site-main-section-info__title">
+                    Торты на заказ
+                </h1>
+                <h3 class="site-main-section-info__hand-made">
+                    Ручная работа
+                </h3>
+                <button class="common__button site-main-section-info__button">
+                    Выбрать торт
+                </button>
+                <div class="site-main-section-info-benefits">
+                    <div class="site-main-section-info-benefits-item">
+                        <img src="Assets/Styles/site/site-main-section/site-main-section-info/site-main-section-info-benefits/images/Ingredients-icon.png" alt="Natural Ingredients" class="site-main-section-info-benefits-item__image" />
+                        <p class="site-main-section-info-benefits-item__text">
+                            Натуральные ингредиенты
+                        </p>
                     </div>
-                    <div class="cake-platform__count">
-                        24 вида
+                    <div class="site-main-section-info-benefits-item">
+                        <img src="Assets/Styles/site/site-main-section/site-main-section-info/site-main-section-info-benefits/images/Delivery-icon.png" alt="Delivery" class="site-main-section-info-benefits-item__image" />
+                        <p class="site-main-section-info-benefits-item__text">
+                            Доставка бесплатно при заказе от 2000 рублей*
+                        </p>
                     </div>
-                    <a href="#" class="cake-platform-arrow cake-platform-arrow__before">
-                        Смотреть
-                        <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image"/>
-                    </a>
                 </div>
-                <div class="sub-block cake-platform_ml-60">
-                    <div class="cake-platform cake-platform-bg__mousse">
-                        <div class="cake-platform__title">
-                            Муссовые
+            </div>
+            <img src="Assets/Styles/site/site-main-section/images/Illustration1.png" alt="" class="bg-image site-main-section__bg-illustration1" />
+            <img src="Assets/Styles/site/site-main-section/images/Illustration2.png" alt="" class="bg-image site-main-section__bg-illustration2" />
+            <img src="Assets/Styles/site/site-main-section/images/Illustration3.png" alt="" class="bg-image site-main-section__bg-illustration3" />
+            <img src="Assets/Styles/site/site-main-section/images/Cake.png" alt="" class="bg-image site-main-section__bg-cake" />
+        </section>
+        <section class="site site-our-cakes-section">
+            <h2 class="site-our-cakes-section__title">
+                Наши торты
+            </h2>
+            <div class="site-our-cakes-section-types">
+                <div class="site-our-cakes-section-types-block">
+                    <div class="cake-platform cake-platform_size_big cake-platform__bg cake-platform__bg_type_classic">
+                        <h4 class="cake-platform__title">
+                            Классические
+                        </h4>
+                        <p class="cake-platform__count">
+                            24 вида
+                        </p>
+                        <a href="#" class="cake-platform-arrow cake-platform-arrow__before">
+                            Смотреть
+                            <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image"/>
+                        </a>
+                    </div>
+                    <div class="sub-block cake-platform_ml-60">
+                        <div class="cake-platform cake-platform__bg cake-platform__bg_type_mousse">
+                            <h4 class="cake-platform__title">
+                                Муссовые
+                            </h4>
+                            <p class="cake-platform__count">
+                                12 видов
+                            </p>
+                            <a href="#" class="cake-platform-arrow">
+                                <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
+                            </a>
                         </div>
-                        <div class="cake-platform__count">
-                            12 видов
+                        <div class="cake-platform cake-platform_mt-60 cake-platform__bg cake-platform__bg_type_wedding">
+                            <h4 class="cake-platform__title">
+                                Свадебные
+                            </h4>
+                            <p class="cake-platform__count">
+                                20 видов
+                            </p>
+                            <a href="#" class="cake-platform-arrow">
+                                <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
+                            </a>
                         </div>
+                    </div>
+                </div>
+                <div class="site-our-cakes-section-types-block cake-platform_mt-60">
+                    <div class="sub-block">
+                        <div class="cake-platform cake-platform__bg cake-platform__bg_type_men">
+                            <h4 class="cake-platform__title">
+                                Мужчинам
+                            </h4>
+                            <p class="cake-platform__count">
+                                12 видов
+                            </p>
+                            <a href="#" class="cake-platform-arrow">
+                                <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
+                            </a>
+                        </div>
+                        <div class="cake-platform cake-platform_mt-60 cake-platform__bg cake-platform__bg_type_women">
+                            <h4 class="cake-platform__title">
+                                Женщинам
+                            </h4>
+                            <p class="cake-platform__count">
+                                16 видов
+                            </p>
+                            <a href="#" class="cake-platform-arrow">
+                                <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="cake-platform cake-platform_size_big cake-platform_ml-60 cake-platform__bg cake-platform__bg_type_childish">
+                        <h4 class="cake-platform__title">
+                            Детские
+                        </h4>
+                        <p class="cake-platform__count">
+                            18 видов
+                        </p>
                         <a href="#" class="cake-platform-arrow">
                             <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
                         </a>
                     </div>
-                    <div class="cake-platform cake-platform_mt-60 cake-platform-bg__wedding">
-                        <div class="cake-platform__title">
-                            Свадебные
-                        </div>
-                        <div class="cake-platform__count">
-                            20 видов
-                        </div>
-                        <a href="#" class="cake-platform-arrow">
-                            <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
-                        </a>
-                    </div>
                 </div>
             </div>
-            <div class="site-our-cakes-section-types-second-block cake-platform_mt-60">
-                <div class="sub-block">
-                    <div class="cake-platform cake-platform-bg__men">
-                        <div class="cake-platform__title">
-                            Мужчинам
-                        </div>
-                        <div class="cake-platform__count">
-                            12 видов
-                        </div>
-                        <a href="#" class="cake-platform-arrow">
-                            <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
-                        </a>
-                    </div>
-                    <div class="cake-platform cake-platform_mt-60  cake-platform-bg__women">
-                        <div class="cake-platform__title">
-                            Женщинам
-                        </div>
-                        <div class="cake-platform__count">
-                            16 видов
-                        </div>
-                        <a href="#" class="cake-platform-arrow">
-                            <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
-                        </a>
-                    </div>
-                </div>
-                <div class="cake-platform cake-platform_size_big cake-platform_ml-60 cake-platform-bg__childish">
-                    <div class="cake-platform__title">
-                        Детские
-                    </div>
-                    <div class="cake-platform__count">
-                        18 видов
-                    </div>
-                    <a href="#" class="cake-platform-arrow">
-                        <img src="Assets/Styles/site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/images/arrow.png" alt="look" class="cake-platform-arrow__image" />
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="site site-how-to-order-section">
-        <img src="Assets/Styles/site/site-how-to-order-section/images/background.png" alt="" class="site-how-to-order-section__background" />
-        <div class="site-how-to-order-section-algorithm">
-            <div class="site-how-to-order-section-algorithm__title">
-                Как заказать
-            </div>
-            <ul class="site-how-to-order-section-algorithm-list">
-                <li class="site-how-to-order-section-algorithm-list-item">
-                    <div class="site-how-to-order-section-algorithm-list-item__number">
-                        1
-                    </div>
-                    <div>
-                        <div class="site-how-to-order-section-algorithm-list-item__title">
+        </section>
+        <section class="site site-how-to-order-section">
+            <img src="Assets/Styles/site/site-how-to-order-section/images/background.png" alt="" class="site-how-to-order-section__background" />
+            <div class="site-how-to-order-section-algorithm">
+                <h2 class="site-how-to-order-section-algorithm__title">
+                    Как заказать
+                </h2>
+                <ul class="site-how-to-order-section-algorithm-list">
+                    <li class="site-how-to-order-section-algorithm-list-item" data-number="1">
+                        <h4 class="site-how-to-order-section-algorithm-list-item__title">
                             Срок заказа
-                        </div>
-                        <div class="site-how-to-order-section-algorithm-list-item__content">
+                        </h4>
+                        <p class="site-how-to-order-section-algorithm-list-item__content">
                             Размещать заказы желательно за 2-3 дня. На выходные заказы лучше размещать минимум за неделю.
-                        </div>
-                    </div>
-                </li>
-                <li class="site-how-to-order-section-algorithm-list-item">
-                    <div class="site-how-to-order-section-algorithm-list-item__number">
-                        2
-                    </div>
-                    <div>
-                        <div class="site-how-to-order-section-algorithm-list-item__title">
+                        </p>
+                    </li>
+                    <li class="site-how-to-order-section-algorithm-list-item" data-number="2">
+                        <h4 class="site-how-to-order-section-algorithm-list-item__title">
                             Доставка по городу
-                        </div>
-                        <div class="site-how-to-order-section-algorithm-list-item__content">
+                        </h4>
+                        <p class="site-how-to-order-section-algorithm-list-item__content">
                             Доставка в пределах города 200 рублей, при заказе на сумму более 2000 доставка бесплатно.
-                        </div>
-                    </div>
-                </li>
-                <li class="site-how-to-order-section-algorithm-list-item">
-                    <div class="site-how-to-order-section-algorithm-list-item__number">
-                        3
-                    </div>
-                    <div>
-                        <div class="site-how-to-order-section-algorithm-list-item__title">
+                        </p>
+                    </li>
+                    <li class="site-how-to-order-section-algorithm-list-item" data-number="3">
+                        <h4 class="site-how-to-order-section-algorithm-list-item__title">
                             Дотавка за городом
-                        </div>
-                        <div class="site-how-to-order-section-algorithm-list-item__content">
+                        </h4>
+                        <p class="site-how-to-order-section-algorithm-list-item__content">
                             Доставка за пределами города рассчитывается индивидуально.
-                        </div>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </section>
-    <section class="site site-contacts-section">
-        <div class="site-contacts-section__title">
-            Контакты
-        </div>
-        <div class="site-contacts-section__content">
-            <form class="site-contacts-section-form">
-                <div class="site-contacts-section-form__title">
-                    Остались вопросы?
-                </div>
-                <div class="site-contacts-section-form__sub-title">
-                    Заполните форму ниже и наш кондитер свяжется с Вами
-                </div>
-                <input type="text" name="Name" placeholder="Ваше имя" class="common__input site-contacts-section-form__input" autocomplete="off" />
-                <input type="email" name="Email" placeholder="Email адрес" class="common__input site-contacts-section-form__input" autocomplete="off" />
-                <textarea name="Question" placeholder="Ваш вопрос" class="common__input site-contacts-section-form__input"></textarea>
-                <button type="submit" class="common__button site-contacts-section-form__button">Отправить</button>
-            </form>
-            <div class="site-contacts-section-info">
-                <div class="site-contacts-section-info__secondary-contact">
-                    Или позвоните по телефону: <br />
-                    +7 906 899 92 96
-                </div>
-                <div class="site-contacts-section-info__secondary-contact">
-                    Наша почта: bakerybypavel@mail.ru
-                </div>
-                <div class="site-contacts-section-info__secondary-contact">
-                    Мы в соц. сетях:
-                </div>
-                <div class="site-contacts-section-info-social-icon-group">
-                    <a href="#" class="common__link common__social-icon">
-                        <img src="Assets/Styles/site/common/images/instagram-icon.png" alt="Instagram" class="site-contacts-section-info-social-icon-instagram__image" />
-                    </a>
-                    <a href="#" class="common__link common__social-icon site-contacts-section-info-social-icon-vk">
-                        <img src="Assets/Styles/site/common/images/vk-icon.png" alt="VK" class="site-contacts-section-info-social-icon-vk__image" />
-                    </a>
-                </div>
+                        </p>
+                    </li>
+                </ul>
             </div>
-            <img src="Assets/Styles/site/site-contacts-section/images/background.png" alt="" class="site-contacts-section__bg" />
-        </div>
-    </section>
+        </section>
+        <section class="site site-contacts-section">
+            <h2 class="site-contacts-section__title">
+                Контакты
+            </h2>
+            <p class="site-contacts-section-form__title">
+                Остались вопросы?
+            </p>
+            <div class="site-contacts-section-content">
+                <form class="site-contacts-section-form">
+                    <p class="site-contacts-section-form__sub-title">
+                        Заполните форму ниже и наш кондитер свяжется с Вами
+                    </p>
+                    <input type="text" name="Name" placeholder="Ваше имя" class="common__input site-contacts-section-form__input" autocomplete="off" />
+                    <input type="email" name="Email" placeholder="Email адрес" class="common__input site-contacts-section-form__input" autocomplete="off" />
+                    <textarea name="Question" placeholder="Ваш вопрос" class="common__input site-contacts-section-form__input"></textarea>
+                    <button type="submit" class="common__button site-contacts-section-form__button">Отправить</button>
+                </form>
+                <div class="site-contacts-section-info">
+                    <p class="site-contacts-section-info__secondary-contact">
+                        Или позвоните по телефону: <br />
+                        +7 906 899 92 96
+                    </p>
+                    <p class="site-contacts-section-info__secondary-contact">
+                        Наша почта: bakerybypavel@mail.ru
+                    </p>
+                    <p class="site-contacts-section-info__secondary-contact">
+                        Мы в соц. сетях:
+                    </p>
+                    <div class="site-contacts-section-info-social-icon-group">
+                        <a href="#" class="common__link common__social-icon">
+                            <img src="Assets/Styles/site/common/images/instagram-icon.png" alt="Instagram" class="site-contacts-section-info-social-icon-instagram__image" />
+                        </a>
+                        <a href="#" class="common__link common__social-icon site-contacts-section-info-social-icon-vk">
+                            <img src="Assets/Styles/site/common/images/vk-icon.png" alt="VK" class="site-contacts-section-info-social-icon-vk__image" />
+                        </a>
+                    </div>
+                </div>
+                <img src="Assets/Styles/site/site-contacts-section/images/background.png" alt="" class="site-contacts-section__bg" />
+            </div>
+        </section>
+    </main>
     <footer class="site site-footer">
         <div class="site-footer-nav-panel">
             <h1 class="site-footer-nav-panel__title">

@@ -2,6 +2,11 @@
     font-family: 'Playfair Display', serif;
     font-size: 31px;
     color: #2d2829;
-    display: inline;
     letter-spacing: 2px;
+}
+
+@media screen and (max-width: 1450px){
+    .site-header__title {
+        font-size: 25px;
+    }
 }

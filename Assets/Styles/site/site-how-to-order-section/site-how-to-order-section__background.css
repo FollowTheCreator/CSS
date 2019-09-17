@@ -8,3 +8,18 @@
     user-select: none;
     width: 1920px;
 }
+
+.site-how-to-order-section__background_screen_mobile {
+    display: none;
+}
+
+@media screen and (max-width: 1000px){
+    .site-how-to-order-section__background {
+        display: none;
+    }
+
+    .site-how-to-order-section__background_screen_mobile {
+        display: block;
+        width: 1000px;
+    }
+}

@@ -3,3 +3,10 @@
     font-size: 50px;
     padding-top: 5vh;
 }
+
+@media screen and (max-width: 1000px) {
+    .site-contacts-section-form__title {
+        padding-top: 4vh;
+        font-size: 70px;
+    }
+}

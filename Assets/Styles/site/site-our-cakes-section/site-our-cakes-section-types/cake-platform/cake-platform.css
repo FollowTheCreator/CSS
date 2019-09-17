@@ -15,14 +15,36 @@
     width: 44vw;
 }
 
-.cake-platform_mt-60 {
+.cake-platform_mt-3 {
     margin-top: 3vw;
 }
 
-.cake-platform_ml-60 {
+.cake-platform_ml-3 {
    margin-left: 3vw;
 }
 
 .sub-block {
     width: 35vw;
+}
+
+@media screen and (max-width: 1000px){
+    .cake-platform {
+        padding: 4vw 3.4vw;
+        height: 29vw;
+        margin-top: 3vh;
+        width: calc(100% - 60px);
+    }
+
+    .cake-platform_size_big {
+        height: 29vw;
+        width: calc(100% - 60px);
+    }
+
+    .cake-platform_ml-3 {
+        margin-left: 0px;
+    }
+
+    .sub-block {
+        width: 100%;
+    }
 }

@@ -8,3 +8,10 @@
     -ms-user-select: none;
     user-select: none;
 }
+
+@media screen and (max-width: 1000px){
+    .bg-image {
+        left: 0px;
+        margin: auto;
+    }
+}

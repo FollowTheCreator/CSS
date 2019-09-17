@@ -6,3 +6,12 @@
     margin-top: 7180px;
     height: 983px;
 }
+
+@media screen and (max-width: 1000px){
+    .site-how-to-order-section {
+        align-items: initial;
+        justify-content: center;
+        margin-top: 11010px;
+        height: 1506px;
+    }
+}

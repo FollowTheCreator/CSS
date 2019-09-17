@@ -10,3 +10,9 @@
         width: 100vw;
     }
 }
+
+@media screen and (max-width: 1000px) {
+    .site-header-nav {
+        align-items: center;
+    }
+}

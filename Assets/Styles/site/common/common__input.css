@@ -9,3 +9,14 @@
     resize: none;
     height: 30px;
 }
+
+@media screen and (max-width: 1000px) {
+    .common__input {
+        background-color: white;
+        border: none;
+        font-size: 45px;
+        width: 95%;
+        padding: 6.5vh 2vw;
+        border-radius: 12px;
+    }
+}

@@ -11,3 +11,12 @@
 .common__social-icon:hover {
     box-shadow: 0px 0px 10px 0px rgba(255, 0, 67, 0.2);
 }
+
+@media screen and (max-width: 1000px) {
+    .common__social-icon {
+        width: 190px;
+        height: 140px;
+        text-align: center;
+        padding-top: 45px;
+    }
+}

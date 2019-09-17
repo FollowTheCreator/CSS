@@ -22,3 +22,19 @@
         font-size: 15px;
     }
 }
+
+@media screen and (max-width: 1000px) {
+    .site-footer-nav-panel-links__item {
+        margin-top: 5.5vh;
+        font-size: 45px;
+        display: block;
+    }
+
+    .site-footer-nav-panel-links__item:link {
+        color: white;
+    }
+
+    .site-footer-nav-panel-links__item:visited {
+        color: white;
+    }
+}

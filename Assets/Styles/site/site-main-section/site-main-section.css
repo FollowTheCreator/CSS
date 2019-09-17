@@ -3,3 +3,10 @@
     padding-top: 23vh;
     height: 1045px;
 }
+
+@media screen and (max-width: 1000px){
+    .site-main-section {
+        padding-top: 43vh;
+        height: 1090px;
+    }
+}

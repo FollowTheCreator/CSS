@@ -2,6 +2,14 @@
     font-family: IntroScriptR;
     font-size: 60px;
     color: #32313d;
-    margin-top: 3vh;
+    padding-top: 3vh;
     letter-spacing: -1.5px;
+}
+
+@media screen and (max-width: 1000px){
+    .site-main-section-info__hand-made {
+        font-size: 70px;
+        padding-top: 9vh;
+        text-align: center;
+    }
 }

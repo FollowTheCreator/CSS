@@ -9,3 +9,9 @@
     user-select: none;
     height: 570px;
 }
+
+@media screen and (max-width: 1000px){
+    .site-contacts-section__bg {
+        display: none;
+    }
+}

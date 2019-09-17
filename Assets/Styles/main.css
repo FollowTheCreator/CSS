@@ -14,6 +14,8 @@
 @import "site/site-header/site-header__title.css";
 @import "site/site-header/site-header__link.css";
 @import "site/site-header/site-header__number.css";
+@import "site/site-header/site-header-menu.css";
+@import "site/site-header/site-header-menu__image.css";
 
 /* main-section */
 @import "site/site-main-section/site-main-section.css";
@@ -79,6 +81,9 @@
 @import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel__title.css";
 @import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-links.css";
 @import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-links__item.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel__number.css";
 @import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social.css";
 @import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social__image.css";
+@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social__link.css";
 @import "site/site-footer/site-footer__copyright.css";
+@import "site/site-footer/site-footer__hr.css";

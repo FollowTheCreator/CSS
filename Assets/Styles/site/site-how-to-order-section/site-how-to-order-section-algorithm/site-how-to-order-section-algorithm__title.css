@@ -4,3 +4,12 @@
     letter-spacing: 0.5px;
     padding-bottom: 2vh;
 }
+
+@media screen and (max-width: 1000px){
+    .site-how-to-order-section-algorithm__title {
+        padding-top: 14vh;
+        text-align: center;
+        font-size: 70px;
+        padding-bottom: 4vh;
+    }
+}

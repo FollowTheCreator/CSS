@@ -35,3 +35,17 @@
         height: 105px;
     }
 }
+
+@media screen and (max-width: 1000px) {
+    .site-main-section__bg-illustration1 {
+        display: none;
+    }
+
+    .site-main-section__bg-illustration2 {
+        display: none;
+    }
+
+    .site-main-section__bg-illustration3 {
+        display: none;
+    }
+}

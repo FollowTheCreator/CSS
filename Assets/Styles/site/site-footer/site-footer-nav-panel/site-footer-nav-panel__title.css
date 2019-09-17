@@ -10,3 +10,10 @@
         font-size: 30px;
     }
 }
+
+@media screen and (max-width: 1000px) {
+    .site-footer-nav-panel__title {
+        font-size: 85px;
+        color: white;
+    }
+}

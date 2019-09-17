@@ -5,3 +5,10 @@
     color: #2d2829;
     letter-spacing: 1px;
 }
+
+@media screen and (max-width: 1000px) {
+    .site-contacts-section__title {
+        text-align: center;
+        font-size: 80px;
+    }
+}

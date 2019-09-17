@@ -22,3 +22,9 @@
     padding-left: 20px;
     transition-duration: 0.2s;
 }
+
+@media screen and (max-width: 1000px){
+    .cake-platform-arrow {
+        display: none;
+    }
+}

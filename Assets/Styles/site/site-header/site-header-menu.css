@@ -1,0 +1,15 @@
+.site-header-menu{
+    display: none;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+.site-header-menu:hover {
+    transform: scale(1.1);
+}
+
+@media screen and (max-width: 1000px) {
+    .site-header-menu {
+        display: block;
+    }
+}

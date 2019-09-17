@@ -5,3 +5,14 @@
     font-size: 27px;
     text-transform: none;
 }
+
+@media screen and (max-width: 1000px){
+    .site-contacts-section-form__button {
+        padding: 35px 130px;
+        font-size: 60px;
+        text-transform: none;
+        border-radius: 80px;
+        margin: auto;
+        margin-bottom: 9vh;
+    }
+}

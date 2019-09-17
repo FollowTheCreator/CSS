@@ -1,3 +1,20 @@
 .site-main-section-info__button{
     margin-top: 8vh;
 }
+
+.site-main-section-info__button_screen_mobile{
+    display: none;
+}
+
+@media screen and (max-width: 1000px){
+    .site-main-section-info__button {
+        display: none;
+    }
+    .site-main-section-info__button_screen_mobile {
+        padding: 45px 200px;
+        border-radius: 136px;
+        font-size: 40px;
+        display: block;
+        margin: auto;
+    }
+}

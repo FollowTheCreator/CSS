@@ -1,0 +1,12 @@
+.contacts-section-form__title {
+    font-family: IntroScriptR;
+    font-size: 50px;
+    padding-top: 5vh;
+}
+
+@media screen and (max-width: 1000px) {
+    .contacts-section-form__title {
+        padding-top: 4vh;
+        font-size: 70px;
+    }
+}

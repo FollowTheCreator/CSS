@@ -1,0 +1,14 @@
+.header {
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+@media screen and (max-width: 1000px){
+    .header {
+        background: white;
+        align-items: center;
+        height: 13vh;
+    }
+}

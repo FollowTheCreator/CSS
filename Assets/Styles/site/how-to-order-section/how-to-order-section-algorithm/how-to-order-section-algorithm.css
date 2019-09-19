@@ -1,0 +1,10 @@
+.how-to-order-section-algorithm {
+    width: 650px;
+    color: white;
+}
+
+@media screen and (max-width: 1000px){
+    .how-to-order-section-algorithm {
+        width: 75vw;
+    }
+}

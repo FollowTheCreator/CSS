@@ -1,9 +1,0 @@
-.site-footer {
-    background: #e8e8e8;
-}
-
-@media screen and (max-width: 1000px) {
-    .site-footer {
-        background: #898989;
-    }
-}

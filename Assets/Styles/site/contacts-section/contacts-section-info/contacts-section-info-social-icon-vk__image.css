@@ -1,0 +1,9 @@
+.contacts-section-info-social-icon-vk__image {
+    width: 45px;
+}
+
+@media screen and (max-width: 1000px) {
+    .contacts-section-info-social-icon-vk__image {
+        width: 120px;
+    }
+}

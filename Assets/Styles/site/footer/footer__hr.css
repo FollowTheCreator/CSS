@@ -1,0 +1,12 @@
+.footer__hr {
+    background: #d0d0d0;
+    height: 1px;
+    border: none;
+}
+
+@media screen and (max-width: 1000px) {
+    .footer__hr {
+        background: #aaaaaa;
+        margin-top: 4vh;
+    }
+}

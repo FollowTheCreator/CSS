@@ -1,0 +1,12 @@
+.how-to-order-section-algorithm__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 55px;
+    letter-spacing: 0.5px;
+}
+
+@media screen and (max-width: 1000px){
+    .how-to-order-section-algorithm__title {
+        text-align: center;
+        font-size: 70px;
+    }
+}

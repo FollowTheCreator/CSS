@@ -2,89 +2,88 @@
 @import "site/reset.css";
 
 /* common */
-@import "site/site.css";
+@import "site/base-section.css";
 @import "site/common/common__button.css";
 @import "site/common/common__input.css";
 @import "site/common/common__social-icon.css";
 @import "site/common/common__link.css";
 
 /* header */
-@import "site/site-header/site-header.css";
-@import "site/site-header/site-header-nav.css";
-@import "site/site-header/site-header__title.css";
-@import "site/site-header/site-header-links.css";
-@import "site/site-header/site-header-links__item.css";
-@import "site/site-header/site-header__number.css";
-@import "site/site-header/site-header-menu.css";
-@import "site/site-header/site-header-menu-btn__image.css";
+@import "site/header/header.css";
+@import "site/header/header-nav.css";
+@import "site/header/header__title.css";
+@import "site/header/header-links.css";
+@import "site/header/header-links__item.css";
+@import "site/header/header__number.css";
+@import "site/header/header-menu.css";
+@import "site/header/header-menu-btn__image.css";
 
 /* main-section */
-@import "site/site-main-section/site-main-section.css";
-@import "site/site-main-section/bg-image.css";
-@import "site/site-main-section/site-main-section__bg-cake.css";
-@import "site/site-main-section/site-main-section__bg-illustration.css";
+@import "site/main-section/main-section.css";
+@import "site/main-section/bg-image.css";
+@import "site/main-section/main-section__bg-cake.css";
+@import "site/main-section/main-section__bg-illustration.css";
 
-@import "site/site-main-section/site-main-section-info/site-main-section-info.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info__title.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info__hand-made.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info__button.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item__image.css";
-@import "site/site-main-section/site-main-section-info/site-main-section-info-benefits/site-main-section-info-benefits-item/site-main-section-info-benefits-item__text.css";
+@import "site/main-section/main-section-info/main-section-info.css";
+@import "site/main-section/main-section-info/main-section-info__title.css";
+@import "site/main-section/main-section-info/main-section-info__hand-made.css";
+@import "site/main-section/main-section-info/main-section-info__button.css";
+@import "site/main-section/main-section-info/main-section-info-benefits/main-section-info-benefits.css";
+@import "site/main-section/main-section-info/main-section-info-benefits/main-section-info-benefits-item/main-section-info-benefits-item.css";
+@import "site/main-section/main-section-info/main-section-info-benefits/main-section-info-benefits-item/main-section-info-benefits-item__image.css";
+@import "site/main-section/main-section-info/main-section-info-benefits/main-section-info-benefits-item/main-section-info-benefits-item__text.css";
 
 /* our-cakes-section */
-@import "site/site-our-cakes-section/site-our-cakes-section.css";
-@import "site/site-our-cakes-section/site-our-cakes-section__title.css";
+@import "site/our-cakes-section/our-cakes-section.css";
+@import "site/our-cakes-section/our-cakes-section__title.css";
 
-@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/site-our-cakes-section-types-block.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block.css";
 
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__title.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__count.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform__bg.css";
-@import "site/site-our-cakes-section/site-our-cakes-section-types/cake-platform/cake-platform-arrow.css";
+@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform.css";
+@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform__title.css";
+@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform__count.css";
+@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform__bg.css";
+@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform-arrow.css";
 
 /* how-to-order-section */
-@import "site/site-how-to-order-section/site-how-to-order-section.css";
-@import "site/site-how-to-order-section/site-how-to-order-section__background.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm__title.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__content.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list-item/site-how-to-order-section-algorithm-list-item__title.css";
-@import "site/site-how-to-order-section/site-how-to-order-section-algorithm/site-how-to-order-section-algorithm-list__title.css";
+@import "site/how-to-order-section/how-to-order-section.css";
+@import "site/how-to-order-section/how-to-order-section__background.css";
+@import "site/how-to-order-section/how-to-order-section-algorithm/how-to-order-section-algorithm.css";
+@import "site/how-to-order-section/how-to-order-section-algorithm/how-to-order-section-algorithm__title.css";
+@import "site/how-to-order-section/how-to-order-section-algorithm/how-to-order-section-algorithm-list.css";
+@import "site/how-to-order-section/how-to-order-section-algorithm/how-to-order-section-algorithm-list-item/how-to-order-section-algorithm-list-item.css";
+@import "site/how-to-order-section/how-to-order-section-algorithm/how-to-order-section-algorithm-list-item/how-to-order-section-algorithm-list-item__content.css";
+@import "site/how-to-order-section/how-to-order-section-algorithm/how-to-order-section-algorithm-list-item/how-to-order-section-algorithm-list-item__title.css";
 
 /* contacts-section */
-@import "site/site-contacts-section/site-contacts-section.css";
-@import "site/site-contacts-section/site-contacts-section__bg.css";
-@import "site/site-contacts-section/site-contacts-section__title.css";
-@import "site/site-contacts-section/site-contacts-section-content.css";
+@import "site/contacts-section/contacts-section.css";
+@import "site/contacts-section/contacts-section__bg.css";
+@import "site/contacts-section/contacts-section__title.css";
+@import "site/contacts-section/contacts-section-content.css";
 
-@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form.css";
-@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__button.css";
-@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__input.css";
-@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__sub-title.css";
-@import "site/site-contacts-section/site-contacts-section-form/site-contacts-section-form__title.css";
+@import "site/contacts-section/contacts-section-form/contacts-section-form.css";
+@import "site/contacts-section/contacts-section-form/contacts-section-form__button.css";
+@import "site/contacts-section/contacts-section-form/contacts-section-form__input.css";
+@import "site/contacts-section/contacts-section-form/contacts-section-form__sub-title.css";
+@import "site/contacts-section/contacts-section-form/contacts-section-form__title.css";
 
-@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info.css";
-@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info__secondary-contact.css";
-@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-group.css";
-@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-vk.css";
-@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-instagram__image.css";
-@import "site/site-contacts-section/site-contacts-section-info/site-contacts-section-info-social-icon-vk__image.css";
+@import "site/contacts-section/contacts-section-info/contacts-section-info.css";
+@import "site/contacts-section/contacts-section-info/contacts-section-info__secondary-contact.css";
+@import "site/contacts-section/contacts-section-info/contacts-section-info-social-icon-group.css";
+@import "site/contacts-section/contacts-section-info/contacts-section-info-social-icon-vk.css";
+@import "site/contacts-section/contacts-section-info/contacts-section-info-social-icon-instagram__image.css";
+@import "site/contacts-section/contacts-section-info/contacts-section-info-social-icon-vk__image.css";
 
 /* footer */
-@import "site/site-footer/site-footer.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel__title.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-links.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-links__item.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel__number.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social__image.css";
-@import "site/site-footer/site-footer-nav-panel/site-footer-nav-panel-social__link.css";
-@import "site/site-footer/site-footer__copyright.css";
-@import "site/site-footer/site-footer__hr.css";
+@import "site/footer/footer.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel__title.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel-links.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel-links__item.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel__number.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel-social.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel-social__image.css";
+@import "site/footer/footer-nav-panel/footer-nav-panel-social__link.css";
+@import "site/footer/footer__copyright.css";
+@import "site/footer/footer__hr.css";

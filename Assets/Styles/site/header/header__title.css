@@ -1,0 +1,19 @@
+.header__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 31px;
+    color: #2d2829;
+    letter-spacing: 2px;
+}
+
+@media screen and (max-width: 1450px){
+    .header__title {
+        font-size: 25px;
+    }
+}
+
+
+@media screen and (max-width: 1000px) {
+    .header__title {
+        font-size: 50px;
+    }
+}

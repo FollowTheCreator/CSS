@@ -1,0 +1,14 @@
+.contacts-section-form__sub-title{
+    font-family: Circe;
+    font-size: 30px;
+    margin-top: 3vh;
+    letter-spacing: -1px;
+    margin-bottom: 7vh;
+}
+
+@media screen and (max-width: 1000px) {
+    .contacts-section-form__sub-title {
+        font-size: 45px;
+        margin-bottom: 4vh;
+    }
+}

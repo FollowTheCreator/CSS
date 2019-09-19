@@ -1,0 +1,29 @@
+.how-to-order-section-algorithm-list-item {
+    margin-top: 4vh;
+}
+
+.how-to-order-section-algorithm-list-item::before {
+    content: attr(data-number);
+    font-size: 80px;
+    font-weight: 600;
+    float: left;
+    padding-right: 1vw;
+    padding-bottom: 5vh;
+}
+
+@media screen and (max-width: 1000px){
+    .how-to-order-section-algorithm-list-item {
+        margin-top: 7vh;
+        background: rgba(227, 53, 61, 0.5);
+        box-shadow: 0px 0px 15px 15px rgba(227, 53, 61, 0.5);
+    }
+
+    .how-to-order-section-algorithm-list-item::before {
+        content: attr(data-number);
+        font-size: 100px;
+        font-weight: 600;
+        float: left;
+        padding-right: 4vw;
+        padding-bottom: 10vh;
+    }
+}

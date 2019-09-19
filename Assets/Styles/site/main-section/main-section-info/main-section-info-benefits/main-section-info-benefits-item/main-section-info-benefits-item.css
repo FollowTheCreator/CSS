@@ -1,0 +1,11 @@
+.main-section-info-benefits-item{
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 1000px) {
+    .main-section-info-benefits-item {
+        margin-bottom: 5vh;
+    }
+}

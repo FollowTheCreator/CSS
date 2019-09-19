@@ -1,0 +1,14 @@
+.contacts-section-info-social-icon-vk {
+    padding-top: 20px;
+    height: 65px;
+    margin-left: 3vw;
+}
+
+@media screen and (max-width: 1000px) {
+    .contacts-section-info-social-icon-vk {
+        padding-top: 35px;
+        height: 150px;
+        margin-left: 10vw;
+    }
+
+}

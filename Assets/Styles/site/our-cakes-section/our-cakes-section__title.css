@@ -1,0 +1,14 @@
+.our-cakes-section__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 55px;
+    color: #2d2829;
+    letter-spacing: 1px;
+    height: 145px;
+}
+
+@media screen and (max-width: 1000px){
+    .our-cakes-section__title {
+        font-size: 74px;
+        text-align: center;
+    }
+}

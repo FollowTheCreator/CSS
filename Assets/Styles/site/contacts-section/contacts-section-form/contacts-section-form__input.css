@@ -1,0 +1,18 @@
+.contacts-section-form__input{
+    display: block;
+    margin-top: 5vh;
+}
+
+@media screen and (max-width: 1000px){
+    .contacts-section-form__input {
+        margin-top: 4vh;
+    }
+
+    .contacts-section-form__input_height_250 {
+        height: 250px;
+    }
+
+    .contacts-section-form__input_margin-bottom_30 {
+        margin-bottom: 50px;
+    }
+}

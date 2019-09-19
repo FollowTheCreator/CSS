@@ -1,0 +1,9 @@
+.our-cakes-section-types-block{
+    display: flex;
+}
+
+@media screen and (max-width: 1000px){
+    .our-cakes-section-types-block {
+        display: block;
+    }
+}

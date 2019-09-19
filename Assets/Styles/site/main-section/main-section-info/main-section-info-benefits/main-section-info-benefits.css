@@ -1,0 +1,10 @@
+.main-section-info-benefits {
+    padding-top: 19vh;
+}
+
+@media screen and (max-width: 1000px){
+    .main-section-info-benefits {
+        padding-top: 6vh;
+        padding-bottom: 10vh;
+    }
+}

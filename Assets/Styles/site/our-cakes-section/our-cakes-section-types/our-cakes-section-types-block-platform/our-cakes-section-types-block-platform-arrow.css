@@ -1,4 +1,4 @@
-.cake-platform-arrow {
+.our-cakes-section-types-block-platform-arrow {
     position: absolute;
     right: 3vw;
     bottom: 3vw;
@@ -6,25 +6,25 @@
     letter-spacing: 2px;
 }
 
-.cake-platform-arrow:hover .cake-platform-arrow__image {
+.our-cakes-section-types-block-platform-arrow:hover .our-cakes-section-types-block-platform-arrow__image {
     margin-right: -15px;
     padding-left: 35px;
 }
 
-.cake-platform-arrow__before {
+.our-cakes-section-types-block-platform-arrow__before {
     font-family: Circe;
     font-size: 25px;
     color: #2d2829;
 }
 
-.cake-platform-arrow__image {
+.our-cakes-section-types-block-platform-arrow__image {
     height: 20px;
     padding-left: 20px;
     transition-duration: 0.2s;
 }
 
 @media screen and (max-width: 1000px){
-    .cake-platform-arrow {
+    .our-cakes-section-types-block-platform-arrow {
         display: none;
     }
 }

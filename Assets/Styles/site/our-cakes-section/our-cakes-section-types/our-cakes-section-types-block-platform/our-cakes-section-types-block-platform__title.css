@@ -1,11 +1,11 @@
-.cake-platform__title {
+.our-cakes-section-types-block-platform__title {
     font-family: Circe;
     font-size: 34px;
     color: #2d2829;
 }
 
 @media screen and (max-width: 1000px) {
-    .cake-platform__title {
+    .our-cakes-section-types-block-platform__title {
         font-size: 43px;
     }
 }

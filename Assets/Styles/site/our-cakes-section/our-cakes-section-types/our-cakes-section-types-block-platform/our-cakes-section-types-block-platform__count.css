@@ -1,4 +1,4 @@
-.cake-platform__count {
+.our-cakes-section-types-block-platform__count {
     margin-top: 10px;
     font-family: Circe;
     font-size: 28px;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 1000px) {
-    .cake-platform__count {
+    .our-cakes-section-types-block-platform__count {
         font-size: 33px;
     }
 }

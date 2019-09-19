@@ -1,15 +1,23 @@
-.site-header-menu{
-    display: none;
-    cursor: pointer;
-    transition-duration: 0.2s;
+.site-header-menu {
+    display: flex;
+    width: 100%;
 }
 
-.site-header-menu:hover {
-    transform: scale(1.1);
+.site-header-menu-btn{
+    display: none;
+    transition-duration: 0.2s;
 }
 
 @media screen and (max-width: 1000px) {
     .site-header-menu {
+        width: initial;
+    }
+
+    .site-header-menu:hover > .site-header-links{
+        display: block;
+    }
+
+    .site-header-menu-btn {
         display: block;
     }
 }

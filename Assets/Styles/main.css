@@ -26,7 +26,7 @@
 
 @import "site/main-section/main-section-info/main-section-info.css";
 @import "site/main-section/main-section-info/main-section-info__title.css";
-@import "site/main-section/main-section-info/main-section-info__hand-made.css";
+@import "site/main-section/main-section-info/main-section-info__subtitle.css";
 @import "site/main-section/main-section-info/main-section-info__button.css";
 @import "site/main-section/main-section-info/main-section-info-benefits/main-section-info-benefits.css";
 @import "site/main-section/main-section-info/main-section-info-benefits/main-section-info-benefits-item/main-section-info-benefits-item.css";
@@ -40,11 +40,11 @@
 @import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types.css";
 @import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block.css";
 
-@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform.css";
-@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform__title.css";
-@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform__count.css";
-@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform__bg.css";
-@import "site/our-cakes-section/our-cakes-section-types/cake-platform/cake-platform-arrow.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block-platform/our-cakes-section-types-block-platform.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block-platform/our-cakes-section-types-block-platform__title.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block-platform/our-cakes-section-types-block-platform__count.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block-platform/our-cakes-section-types-block-platform__bg.css";
+@import "site/our-cakes-section/our-cakes-section-types/our-cakes-section-types-block-platform/our-cakes-section-types-block-platform-arrow.css";
 
 /* how-to-order-section */
 @import "site/how-to-order-section/how-to-order-section.css";

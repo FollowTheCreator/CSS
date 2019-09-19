@@ -1,0 +1,30 @@
+.our-cakes-section-types-block-platform {
+    position: relative;
+    background: white;
+    padding: 2.5vw 3.4vw;
+    flex-grow: 1;
+    margin-top: 3vw;
+    margin-right: 3vw;
+    width: calc(45% - 101px - 6vw);
+    transition-duration: 0.2s;
+}
+
+.our-cakes-section-types-block-platform:hover {
+    box-shadow: 0px 10px 15px 2px rgba(163, 6, 60, 0.12);
+}
+
+.our-cakes-section-types-block-platform_size_big {
+    width: calc(55% - 101px);
+    flex-basis: 100%;
+}
+
+@media screen and (max-width: 1000px){
+    .our-cakes-section-types-block-platform {
+        padding: 4vw 3.4vw;
+        width: calc(100% - 60px);
+    }
+
+    .our-cakes-section-types-block-platform_size_big {
+        flex-basis: initial;
+    }
+}

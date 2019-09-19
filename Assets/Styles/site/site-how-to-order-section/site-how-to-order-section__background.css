@@ -6,7 +6,7 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    width: 1920px;
+    height: 991px;
 }
 
 .site-how-to-order-section__background_screen_mobile {
@@ -20,6 +20,6 @@
 
     .site-how-to-order-section__background_screen_mobile {
         display: block;
-        width: 1000px;
+        height: 1506.25px;
     }
 }

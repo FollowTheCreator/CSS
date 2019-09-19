@@ -12,10 +12,11 @@
 @import "site/site-header/site-header.css";
 @import "site/site-header/site-header-nav.css";
 @import "site/site-header/site-header__title.css";
-@import "site/site-header/site-header__link.css";
+@import "site/site-header/site-header-links.css";
+@import "site/site-header/site-header-links__item.css";
 @import "site/site-header/site-header__number.css";
 @import "site/site-header/site-header-menu.css";
-@import "site/site-header/site-header-menu__image.css";
+@import "site/site-header/site-header-menu-btn__image.css";
 
 /* main-section */
 @import "site/site-main-section/site-main-section.css";

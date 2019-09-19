@@ -1,18 +1,5 @@
-.site-contacts-section{
+.site-contacts-section {
     position: relative;
     padding-top: 11vh;
-    height: 1070px;
-}
-
-
-@media screen and (max-width: 1490px) {
-    .site-contacts-section {
-        height: 1300px;
-    }
-}
-
-@media screen and (max-width: 1000px) {
-    .site-contacts-section {
-        height: 2070px;
-    }
+    padding-bottom: 11vh;
 }

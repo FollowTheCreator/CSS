@@ -1,4 +1,4 @@
-.site-header__link {
+.site-header-links__item {
     font-family: Circe;
     font-size: 18.1px;
     text-decoration: none;
@@ -6,26 +6,29 @@
     letter-spacing: 0px;
 }
 
-.site-header__link:link {
+.site-header-links__item:link {
     color: #2d2829;
 }
 
-.site-header__link:visited {
+.site-header-links__item:visited {
     color: #2d2829;
 }
 
-.site-header__link:hover {
+.site-header-links__item:hover {
     color: #f50049;
 }
 
 @media screen and (max-width: 1450px) {
-    .site-header__link {
+    .site-header-links__item {
         font-size: 14px;
     }
 }
 
 @media screen and (max-width: 1000px) {
-    .site-header__link {
-        display: none;
+    .site-header-links__item {
+        display: block;
+        font-size: 30px;
+        padding: 20px;
+        background: white;
     }
 }

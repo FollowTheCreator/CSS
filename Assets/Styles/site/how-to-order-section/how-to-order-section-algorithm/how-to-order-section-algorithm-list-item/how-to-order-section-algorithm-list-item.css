@@ -11,19 +11,25 @@
     padding-bottom: 5vh;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .how-to-order-section-algorithm-list-item {
-        margin-top: 7vh;
+        margin-top: 7vw;
         background: rgba(227, 53, 61, 0.5);
         box-shadow: 0px 0px 15px 15px rgba(227, 53, 61, 0.5);
     }
 
     .how-to-order-section-algorithm-list-item::before {
         content: attr(data-number);
-        font-size: 100px;
+        font-size: 10vw;
         font-weight: 600;
         float: left;
         padding-right: 4vw;
-        padding-bottom: 10vh;
+        padding-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .how-to-order-section-algorithm-list-item::before {
+        padding-bottom: 60px;
     }
 }

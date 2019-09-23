@@ -5,10 +5,16 @@
     align-items: flex-end;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .header {
         background: white;
         align-items: center;
         height: 13vh;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header {
+        height: 10vh;
     }
 }

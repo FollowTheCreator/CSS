@@ -7,11 +7,11 @@
     height: 991px;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .how-to-order-section {
-        justify-items: center;
+        align-items: start;
         justify-content: center;
-        margin-top: 11010px;
-        height: 1506.25px;
+        margin-top: 11710px;
+        height: 153vw;
     }
 }

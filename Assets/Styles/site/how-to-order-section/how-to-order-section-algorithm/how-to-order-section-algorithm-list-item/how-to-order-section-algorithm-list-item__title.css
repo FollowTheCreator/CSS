@@ -4,8 +4,8 @@
     font-size: 30px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .how-to-order-section-algorithm-list-item__title {
-        font-size: 45px;
+        font-size: 4.5vw;
     }
 }

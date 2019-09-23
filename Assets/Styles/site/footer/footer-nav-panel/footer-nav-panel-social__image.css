@@ -18,13 +18,13 @@
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .footer-nav-panel-social__image {
         display: none;
     }
 
     .footer-nav-panel-social__image_screen_mobile {
-        height: 70px;
+        height: 7vw;
         display: initial;
     }
 }

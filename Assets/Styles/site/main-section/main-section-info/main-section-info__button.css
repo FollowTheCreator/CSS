@@ -6,14 +6,14 @@
     display: none;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .main-section-info__button {
         display: none;
     }
     .main-section-info__button_screen_mobile {
-        padding: 45px 200px;
+        padding: 4.5vw 20vw;
         border-radius: 136px;
-        font-size: 40px;
+        font-size: 4vw;
         display: block;
         margin: auto;
     }

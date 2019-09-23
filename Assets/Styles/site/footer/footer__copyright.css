@@ -7,12 +7,12 @@
     padding-bottom: 3vh;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .footer__copyright {
         color: #aaaaaa;
         text-align: left;
         padding-bottom: 3vh;
-        font-size: 35px;
-        letter-spacing: 5px;
+        font-size: 3.5vw;
+        letter-spacing: 0.5vw;
     }
 }

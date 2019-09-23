@@ -3,7 +3,7 @@
     padding-right: 10px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .main-section-info-benefits-item__image {
         width: 120px;
         padding-right: 35px;

@@ -4,7 +4,7 @@
     padding-bottom: 45vh;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .contacts-section {
         padding-bottom: 20vh;
     }

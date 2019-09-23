@@ -5,12 +5,12 @@
     margin-left: 5%;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .header-links {
         position: absolute;
         left: 0px;
         top: 0px;
-        padding-top: 13vh;
+        padding-top: 10vh;
         background: transparent;
         margin-left: 0px;
         display: none;

@@ -23,10 +23,10 @@
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .footer-nav-panel-links__item {
-        margin-top: 5.5vh;
-        font-size: 45px;
+        margin-top: 5.5vw;
+        font-size: 4.5vw;
         display: block;
     }
 

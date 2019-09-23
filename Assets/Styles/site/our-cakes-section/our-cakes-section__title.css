@@ -6,9 +6,10 @@
     height: 145px;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .our-cakes-section__title {
-        font-size: 74px;
+        font-size: 7.4vw;
         text-align: center;
+        height: 14.5vw;
     }
 }

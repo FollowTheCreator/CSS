@@ -1,5 +1,5 @@
 .how-to-order-section-algorithm-list-item {
-    margin-top: 4vh;
+    margin-top: 40px;
 }
 
 .how-to-order-section-algorithm-list-item::before {
@@ -8,7 +8,7 @@
     font-weight: 600;
     float: left;
     padding-right: 1vw;
-    padding-bottom: 5vh;
+    padding-bottom: 50px;
 }
 
 @media screen and (max-width: 1024px){

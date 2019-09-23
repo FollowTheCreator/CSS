@@ -1,6 +1,6 @@
 .contacts-section-form__input{
     display: block;
-    margin-top: 5vh;
+    margin-top: 50px;
 }
 
 @media screen and (max-width: 1024px){

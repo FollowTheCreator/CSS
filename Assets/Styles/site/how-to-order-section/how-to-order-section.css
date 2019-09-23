@@ -3,7 +3,6 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    margin-top: 7180px;
     height: 991px;
 }
 
@@ -11,7 +10,6 @@
     .how-to-order-section {
         align-items: start;
         justify-content: center;
-        margin-top: 11710px;
         height: 153vw;
     }
 }

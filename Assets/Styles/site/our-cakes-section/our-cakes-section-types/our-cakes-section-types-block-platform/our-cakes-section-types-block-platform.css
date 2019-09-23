@@ -1,11 +1,11 @@
 .our-cakes-section-types-block-platform {
     position: relative;
     background: white;
-    padding: 2.5vw 3.4vw;
+    padding: 2.5% 3.4%;
     flex-grow: 1;
-    margin-top: 3vw;
-    margin-right: 3vw;
-    width: calc(45% - 8.3vw);
+    margin-top: 3%;
+    margin-right: 3%;
+    width: calc(45% - 8.3%);
     transition-duration: 0.2s;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .our-cakes-section-types-block-platform_size_big {
-    width: calc(55% - 8.3vw);
+    width: calc(55% - 8.3%);
     flex-basis: 100%;
 }
 

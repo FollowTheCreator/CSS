@@ -1,7 +1,7 @@
 .main-section {
     position: relative;
-    padding-top: 23vh;
-    margin-bottom: 40vh;
+    padding-top: 230px;
+    margin-bottom: 400px;
 }
 
 @media screen and (max-width: 1024px){

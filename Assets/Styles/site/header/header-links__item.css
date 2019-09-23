@@ -24,11 +24,11 @@
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .header-links__item {
         display: block;
-        font-size: 30px;
-        padding: 20px;
+        font-size: 3vw;
+        padding: 2vw;
         background: white;
     }
 }

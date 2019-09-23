@@ -5,7 +5,7 @@
     flex-grow: 1;
     margin-top: 3vw;
     margin-right: 3vw;
-    width: calc(45% - 101px - 6vw);
+    width: calc(45% - 8.3vw);
     transition-duration: 0.2s;
 }
 
@@ -14,14 +14,14 @@
 }
 
 .our-cakes-section-types-block-platform_size_big {
-    width: calc(55% - 101px);
+    width: calc(55% - 8.3vw);
     flex-basis: 100%;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .our-cakes-section-types-block-platform {
         padding: 4vw 3.4vw;
-        width: calc(100% - 60px);
+        width: calc(100% - 6.8vw);
     }
 
     .our-cakes-section-types-block-platform_size_big {

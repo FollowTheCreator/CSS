@@ -3,13 +3,13 @@
     margin-top: 5vh;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .contacts-section-form__input {
         margin-top: 4vh;
     }
 
     .contacts-section-form__input_height_250 {
-        height: 250px;
+        height: 25vw;
     }
 
     .contacts-section-form__input_margin-bottom_30 {

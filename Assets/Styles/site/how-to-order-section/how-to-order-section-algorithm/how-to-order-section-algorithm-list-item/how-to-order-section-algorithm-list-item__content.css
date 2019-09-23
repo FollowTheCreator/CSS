@@ -6,10 +6,10 @@
     line-height: 31px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .how-to-order-section-algorithm-list-item__content {
-        font-size: 40px;
+        font-size: 4vw;
         margin-top: 3vh;
-        line-height: 50px;
+        line-height: 5vw;
     }
 }

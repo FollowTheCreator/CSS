@@ -13,13 +13,13 @@
     display: none;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .how-to-order-section__background {
         display: none;
     }
 
     .how-to-order-section__background_screen_mobile {
         display: block;
-        height: 1506.25px;
+        height: 153vw;
     }
 }

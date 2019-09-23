@@ -4,9 +4,10 @@
     letter-spacing: 0.5px;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1024px){
     .how-to-order-section-algorithm__title {
         text-align: center;
-        font-size: 70px;
+        font-size: 7.3vw;
+        padding-bottom: 8vw;
     }
 }

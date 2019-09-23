@@ -6,10 +6,10 @@
     padding-bottom: 6vh;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .footer-nav-panel {
         display: block;
-        padding-top: 13vh;
-        padding-bottom: 6vh;
+        padding-top: 13vw;
+        padding-bottom: 6vw;
     }
 }

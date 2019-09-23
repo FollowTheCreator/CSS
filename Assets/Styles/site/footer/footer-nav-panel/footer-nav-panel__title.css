@@ -11,9 +11,9 @@
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .footer-nav-panel__title {
-        font-size: 85px;
+        font-size: 8.5vw;
         color: white;
     }
 }

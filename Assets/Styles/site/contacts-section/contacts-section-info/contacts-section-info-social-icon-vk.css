@@ -4,10 +4,10 @@
     margin-left: 3vw;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .contacts-section-info-social-icon-vk {
-        padding-top: 35px;
-        height: 150px;
+        padding-top: 3.5vw;
+        height: 15vw;
         margin-left: 10vw;
     }
 

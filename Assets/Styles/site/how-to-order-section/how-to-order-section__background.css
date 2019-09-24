@@ -1,0 +1,25 @@
+.how-to-order-section__background {
+    position: absolute;
+    z-index: -1;
+    right: 0px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    height: 991px;
+}
+
+.how-to-order-section__background_screen_mobile {
+    display: none;
+}
+
+@media screen and (max-width: 1024px){
+    .how-to-order-section__background {
+        display: none;
+    }
+
+    .how-to-order-section__background_screen_mobile {
+        display: block;
+        height: 153vw;
+    }
+}

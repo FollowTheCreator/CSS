@@ -1,0 +1,15 @@
+.how-to-order-section{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 991px;
+}
+
+@media screen and (max-width: 1024px){
+    .how-to-order-section {
+        align-items: start;
+        justify-content: center;
+        height: 153vw;
+    }
+}

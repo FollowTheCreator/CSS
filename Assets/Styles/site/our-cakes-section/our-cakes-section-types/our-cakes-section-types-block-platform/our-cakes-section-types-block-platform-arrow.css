@@ -1,0 +1,30 @@
+.our-cakes-section-types-block-platform-arrow {
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.our-cakes-section-types-block-platform-arrow:hover .our-cakes-section-types-block-platform-arrow__image {
+    margin-right: -15px;
+    padding-left: 35px;
+}
+
+.our-cakes-section-types-block-platform-arrow__before {
+    font-family: Circe;
+    font-size: 25px;
+    color: #2d2829;
+}
+
+.our-cakes-section-types-block-platform-arrow__image {
+    height: 20px;
+    padding-left: 20px;
+    transition-duration: 0.2s;
+}
+
+@media screen and (max-width: 1024px){
+    .our-cakes-section-types-block-platform-arrow {
+        display: none;
+    }
+}

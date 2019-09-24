@@ -1,0 +1,17 @@
+.contacts-section__bg {
+    position: absolute;
+    z-index: -1;
+    right: 0px;
+    bottom: 0px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    height: 570px;
+}
+
+@media screen and (max-width: 1024px){
+    .contacts-section__bg {
+        display: none;
+    }
+}

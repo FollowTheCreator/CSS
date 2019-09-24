@@ -1,0 +1,10 @@
+.contacts-section-info-social-icon-group {
+    display: flex;
+    margin-top: 4vh;
+}
+
+@media screen and (max-width: 1024px) {
+    .contacts-section-info-social-icon-group {
+        margin-top: 3vh;
+    }
+}

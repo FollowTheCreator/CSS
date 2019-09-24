@@ -1,0 +1,9 @@
+.footer {
+    background: #e8e8e8;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer {
+        background: #898989;
+    }
+}

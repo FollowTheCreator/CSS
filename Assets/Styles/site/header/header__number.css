@@ -1,0 +1,12 @@
+.header__number {
+    font-family: Circe;
+    font-size: 21px;
+    color: #2d2829;
+}
+
+@media screen and (max-width: 1200px) {
+    .header__number {
+        display: none;
+        width: 0px;
+    }
+}

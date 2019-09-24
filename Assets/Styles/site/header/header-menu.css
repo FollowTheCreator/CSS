@@ -1,0 +1,23 @@
+.header-menu {
+    display: flex;
+    width: 100%;
+}
+
+.header-menu-btn{
+    display: none;
+    transition-duration: 0.2s;
+}
+
+@media screen and (max-width: 1024px) {
+    .header-menu {
+        width: initial;
+    }
+
+    .header-menu:hover > .header-links{
+        display: block;
+    }
+
+    .header-menu-btn {
+        display: block;
+    }
+}

@@ -1,0 +1,14 @@
+.footer-nav-panel__number {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer-nav-panel__number {
+        display: block;
+        color: white;
+        font-family: Circe;
+        font-size: 4.5vw;
+        padding-top: 6vw;
+        padding-bottom: 10vw;
+    }
+}

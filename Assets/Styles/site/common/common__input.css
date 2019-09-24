@@ -1,0 +1,22 @@
+.common__input {
+    background-color: transparent;
+    color: #2d2829;
+    border: none;
+    border-bottom: 1px solid #c9bcbb;
+    font-family: Circe;
+    font-size: 20px;
+    width: 770px;
+    resize: none;
+    height: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+    .common__input {
+        background-color: white;
+        border: none;
+        font-size: 4.5vw;
+        width: 95%;
+        padding: 6.5vw 2vw;
+        border-radius: 12px;
+    }
+}

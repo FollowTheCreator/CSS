@@ -1,0 +1,32 @@
+.main-section__bg-cake {
+    top: 5vh;
+    height: 1300px;
+}
+
+.main-section__bg-cake_screen_mobile{
+    display: none;
+}
+
+@media screen and (max-width: 1600px){
+    .main-section__bg-cake {
+        height: 1024px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .main-section__bg-cake {
+        top: 25vh;
+        height: 700px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .main-section__bg-cake {
+        display: none;
+    }
+    .main-section__bg-cake_screen_mobile {
+        top: -13vh;
+        display: block;
+        width: calc(100vw - (100vw - 100%));
+    }
+}

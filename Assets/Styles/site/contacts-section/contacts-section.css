@@ -1,0 +1,11 @@
+.contacts-section {
+    position: relative;
+    padding-top: 110px;
+    padding-bottom: 450px;
+}
+
+@media screen and (max-width: 1024px){
+    .contacts-section {
+        padding-bottom: 20vh;
+    }
+}

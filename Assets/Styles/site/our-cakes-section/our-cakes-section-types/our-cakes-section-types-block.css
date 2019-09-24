@@ -1,0 +1,26 @@
+.our-cakes-section-types-block {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 50vw;
+    max-height: 960px;
+}
+
+@media screen and (max-width: 1024px) {
+    .our-cakes-section-types-block {
+        height: 900px;
+        flex-wrap: initial;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .our-cakes-section-types-block {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .our-cakes-section-types-block {
+        height: 400px;
+    }
+}

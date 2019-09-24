@@ -1,0 +1,11 @@
+.how-to-order-section-algorithm-list-item__title {
+    font-family: Circe;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+    .how-to-order-section-algorithm-list-item__title {
+        font-size: 4.5vw;
+    }
+}

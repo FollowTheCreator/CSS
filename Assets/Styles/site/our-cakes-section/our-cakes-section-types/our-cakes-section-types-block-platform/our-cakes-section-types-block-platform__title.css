@@ -1,0 +1,18 @@
+.our-cakes-section-types-block-platform__title {
+    font-family: Circe;
+    font-size: 34px;
+    color: #2d2829;
+    text-shadow: 0px 0px 20px rgb(255, 255, 255), 0px 0px 20px rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 1024px) {
+    .our-cakes-section-types-block-platform__title {
+        font-size: 43px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .our-cakes-section-types-block-platform__title {
+        font-size: 20px;
+    }
+}

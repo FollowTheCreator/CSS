@@ -1,0 +1,14 @@
+.contacts-section__title {
+    font-family: "Playfair Display" serif;
+    font-size: 60px;
+    font-weight: 600;
+    color: #2d2829;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1024px) {
+    .contacts-section__title {
+        text-align: center;
+        font-size: 8vw;
+    }
+}

@@ -1,0 +1,24 @@
+.main-section-info__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 110px;
+    color: #2e2829;
+    letter-spacing: 7px;
+    width: 500px;
+    line-height: 100px;
+}
+
+@media screen and (max-width: 1024px) {
+    .main-section-info__title {
+        font-size: 12vw;
+        width: 60vw;
+        margin: auto;
+        text-align: center;
+        letter-spacing: 0.12vw;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .main-section-info__title {
+        line-height: 50px;
+    }
+}

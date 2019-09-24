@@ -1,0 +1,18 @@
+.footer__copyright{
+    font-family: Circe;
+    font-size: 20px;
+    color: #b7b7b7;
+    text-align: center;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer__copyright {
+        color: #aaaaaa;
+        text-align: left;
+        padding-bottom: 3vh;
+        font-size: 3.5vw;
+        letter-spacing: 0.5vw;
+    }
+}

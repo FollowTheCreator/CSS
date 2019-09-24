@@ -1,0 +1,11 @@
+.footer-nav-panel-social {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer-nav-panel-social {
+        display: flex;
+        justify-content: flex-start;
+    }
+}

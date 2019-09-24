@@ -1,0 +1,29 @@
+.our-cakes-section-types-block-platform__bg {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.our-cakes-section-types-block-platform__bg_type_classic {
+    background-image: url(images/classic.png);
+}
+
+.our-cakes-section-types-block-platform__bg_type_mousse {
+    background-image: url(images/mousse.png);
+}
+
+.our-cakes-section-types-block-platform__bg_type_wedding {
+    background-image: url(images/wedding.png);
+}
+
+.our-cakes-section-types-block-platform__bg_type_men {
+    background-image: url(images/men.png);
+}
+
+.our-cakes-section-types-block-platform__bg_type_women {
+    background-image: url(images/women.png);
+}
+
+.our-cakes-section-types-block-platform__bg_type_childish {
+    background-image: url(images/childish.png);
+}
